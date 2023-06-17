@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackgroundLocationTracker</string>
+    <string name="geofence_transition_invalid_type">INVALID_GEOFENCE\n</string>
+    <string name="channel_name">NOTIFICATION_CHANNEL_GEOFENCE</string>
+    <string name="channel_description">Notification channel for geo fence events</string>
+    <string name="geofence_fab_text">Set Geofence</string>
+</resources>
