@@ -112,10 +112,12 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/crypticguy/BackgroundLocationTracker.git
    ```
 3. Open the project using android studio (install from https://developer.android.com/studio)
-4. Create a secrets.xml file under ```app > src > main > res > values``` 
-5. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Create a ```secrets.xml``` file under ```app > src > main > res > values``` 
+5. Enter the values for the following keys in ```secrets.xml```
+   ```xml
+   <string name="mapmyindia_rest_api_key">xxx</string>
+    <string name="mapmyindia_atlas_client_id">xxx</string>
+    <string name="mapmyindia_atlas_client_secret">xxx</string>
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
