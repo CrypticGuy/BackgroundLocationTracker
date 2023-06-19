@@ -33,7 +33,7 @@
 <h3 align="center">Background Location Tracker</h3>
 
   <p align="center">
-    The Background Location Tracker is a powerful location tracking system that allows users to set custom geofences on a map, track their movements in the background, and receive notifications when they enter or exit the designated locations. This open-source project provides developers with a comprehensive solution for integrating background geofencing functionality into their mobile applications. For the demo of the above system, currently the app creates a notification to alert the user. Also, on going in the background, the app launches a foreground notification to display and update the realtime location.
+    A dynamic geofence location tracking app for android
     <br />
     <a href="https://github.com/crypticguy/BackgroundLocationTracker"><strong>Explore the docs »</strong></a>
     <br />
@@ -54,9 +54,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -78,9 +75,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+The Background Location Tracker is a powerful location tracking system that allows users to set custom geofences on a map, track their movements in the background, and receive notifications when they enter or exit the designated locations. This open-source project provides developers with a comprehensive solution for integrating background geofencing functionality into their mobile applications. For the demo of the above system, currently the app creates a notification to alert the user. Also, on going in the background, the app launches a foreground notification to display and update the realtime location.
+
+The idea sprouted to me because I always forget to ping my mother on arrival of office, despite her remining me a million times. So, decided on making a system which would notify me when I have reached the office or any place, to just give her a ping. 
+On discussion with a couple of friends, I realized this could have multitudes of scope. So, decided on uploading here for anyone to find and get motivation.
+
+Do share with me any cool project that you create with reference. Please ignore the bad coding design. This app was created in a caffeine high state working a fulltime job. Much love :heart: 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +181,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/vgoel_) - vasu18322@iiitd.ac.in
+Vasu Goel - [(@vgoel_)](https://twitter.com/vgoel_) - vasu18322@iiitd.ac.in
 
 Project Link: [https://github.com/crypticguy/BackgroundLocationTracker](https://github.com/crypticguy/BackgroundLocationTracker)
 
