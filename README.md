@@ -116,9 +116,11 @@ To get a local copy up and running follow these simple example steps.
 5. Enter the values for the following keys in ```secrets.xml```
    ```xml
    <string name="mapmyindia_rest_api_key">xxx</string>
-    <string name="mapmyindia_atlas_client_id">xxx</string>
-    <string name="mapmyindia_atlas_client_secret">xxx</string>
+   <string name="mapmyindia_atlas_client_id">xxx</string>
+   <string name="mapmyindia_atlas_client_secret">xxx</string>
    ```
+6. Create an emulator or use a physical device
+7. Run the app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
