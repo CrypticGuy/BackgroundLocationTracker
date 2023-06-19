@@ -33,16 +33,16 @@
 <h3 align="center">Background Location Tracker</h3>
 
   <p align="center">
-    project_description
+    The Background Location Tracker is a powerful location tracking system that allows users to set custom geofences on a map, track their movements in the background, and receive notifications when they enter or exit the designated locations. This open-source project provides developers with a comprehensive solution for integrating background geofencing functionality into their mobile applications. For the demo of the above system, currently the app creates a notification to alert the user. Also, on going in the background, the app launches a foreground notification to display and update the realtime location.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/crypticguy/BackgroundLocationTracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/crypticguy/BackgroundLocationTracker">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/crypticguy/BackgroundLocationTracker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/crypticguy/BackgroundLocationTracker/issues">Request Feature</a>
   </p>
 </div>
 
