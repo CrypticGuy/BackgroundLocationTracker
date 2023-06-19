@@ -66,7 +66,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -87,20 +86,15 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+### Technologies
+[![AndroidStudio][android-studio]][android-url]
+[![Android][android]][android-url]
+[![Kotlin][kotlin]][kotlin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+### Map SDK
+[![MapMyIndia][mapmyindia]][mapmyindia-url]
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -110,24 +104,16 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get the API key for MapMyIndia from https://www.mapmyindia.com/
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/crypticguy/BackgroundLocationTracker.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
+3. Open the project using android studio (install from https://developer.android.com/studio)
+4. Create a secrets.xml file under ```app > src > main > res > values``` 
+5. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -225,6 +211,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/vasu-goel-10751518b/
 [product-screenshot]: images/screenshot.png
+[kotlin]: https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+[kotlin-url]: https://kotlinlang.org
+[android-studio]: https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+[android]: https://img.shields.io/badge/Android-11-blue
+[mapmyindia]: https://cdn-mmi.b-cdn.net/images/logo-m.png
+[mapmyindia-url]: https://www.mapmyindia.com/
+[android-url]: https://developer.android.com/
 <!--[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
